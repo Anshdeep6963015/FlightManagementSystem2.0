@@ -62,6 +62,14 @@ This is a Java console-based Flight Management System simulating a comprehensive
   * Selected seat class and food preference
 
 
+
+
+
+##Version 3.0 uploaded
+https://github.com/Anshdeep6963015/FlightmanagementSystem3.0
+
+
+
 ## 👨‍💻 Author
 
 Anshdeep — CSE student at Chitkara University
