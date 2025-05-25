@@ -65,8 +65,11 @@ This is a Java console-based Flight Management System simulating a comprehensive
 
 
 
-##Version 3.0 uploaded
-https://github.com/Anshdeep6963015/FlightmanagementSystem3.0
+## Version 3.0 Uploaded
+
+The latest **Flight Management System 3.0** is now available on GitHub:  
+[https://github.com/Anshdeep6963015/FlightmanagementSystem3.0](https://github.com/Anshdeep6963015/FlightmanagementSystem3.0)
+
 
 
 
