@@ -3,8 +3,8 @@ package email;
 import java.util.Properties;
 
 public class EmailConfig {
-    public static final String SENDER_EMAIL = "anshdeep24072004@gmail.com";
-    public static final String SENDER_PASSWORD = "sakdiptvamhybhxs";
+    public static final String SENDER_EMAIL = "**************@gmail.com"; // Enter your email
+    public static final String SENDER_PASSWORD = "****************"; // Enter your 16 character App password from google
 
     public static Properties getEmailProperties() {
         Properties props = new Properties();
